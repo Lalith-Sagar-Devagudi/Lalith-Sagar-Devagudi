@@ -1,7 +1,7 @@
-# Hallo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Light%20Skin%20Tone.png" alt="Victory Hand Light Skin Tone" width="35" height="35" />
+#  Hallo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Light%20Skin%20Tone.png" alt="Victory Hand Light Skin Tone" width="35" height="35" /> I am Lalith Sagar Devagudi - (Data Scientist / AI Engineer) 
 
+<img src="https://github.com/Lalith-Sagar-Devagudi/Lalith-Sagar-Devagudi/assets/40135491/464ffa17-94e9-41ab-bc05-8ae620401377" width="1000" height="200">
 
-## I am Lalith Sagar Devagudi - (Data Scientist / AI Engineer) 
 <a href="https://github.com/Lalith-Sagar-Devagudi" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/Lalith-Sagar-Devagudi?logo=github&style=for-the-badge&color=90ee90&labelColor=1c1917"/>
 </a>
