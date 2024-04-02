@@ -2,8 +2,13 @@
 
 
 ## I am Lalith Sagar Devagudi - (Data Scientist / AI Engineer) 
-<a href="https://github.com/Lalith-Sagar-Devagudi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Lalith-Sagar-Devagudi?logo=github&style=for-the-badge&color=90ee90&labelColor=1c1917" /></a>  
+<a href="https://github.com/Lalith-Sagar-Devagudi" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/Lalith-Sagar-Devagudi?logo=github&style=for-the-badge&color=90ee90&labelColor=1c1917"/>
+</a>
+<a href="https://github.com/Lalith-Sagar-Devagudi" target="_blank" rel="noreferrer">
+    <img src="https://komarev.com/ghpvc/?username=Lalith-Sagar-Devagudi&label=Profile%20views&style=for-the-badge&color=90ee90&labelColor=1c1917"/>
+</a>
+
 
 
 #### About me
